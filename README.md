@@ -12,12 +12,13 @@ shindeomkar2508@gmail.com | [LinkedIn](https://www.linkedin.com/in/omkar-shinde-
 
 | Domain                                      | Skills / Tools                                                                 | Projects                                                                                   |
 |---------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
-| Pharma ETL Project                          | - MS Excel<br>- Power BI<br>- ETL Power BI            | [Pharma ETL Project](https://github.com/omkarshinde25/pharma-etl-project/tree/main)         |
+| Power BI DataModel SchemaHub Project        | - Power BI<br>- Power Pivot<br>- Data Modeling<br>- Schema<br>- Relationships  | [Power BI DataModel SchemaHub Project](https://github.com/omkarshinde25/PowerBI-DataModel-SchemaHub) |
+| Pharma ETL Project                          | - MS Excel<br>- Power BI<br>- ETL Power BI<br>- Power Query Editor                                     | [Pharma ETL Project](https://github.com/omkarshinde25/pharma-etl-project/tree/main)         |
 | Sales Data Analysis                         | - MS Excel<br>- Pivot Tables, Charts<br>- Year & Month-wise Sales/Expenses/Profit Reports | [Sales Analysis Excel Project](https://github.com/omkarshinde25/Sales-Analysis-Excel-Project) |
 | Business Data Analysis                      | - MS Excel<br>- IF, XLOOKUP, SUMIF<br>- Charts & Dashboards                   | [Excel Business Analysis Dashboard](https://github.com/omkarshinde25/Business-Analysis-Excel-Project) |
 | Indian Language Translator Web App          | - HTML, CSS, JavaScript, Bootstrap<br>- Responsive Design<br>- UI Development | [Indian Language Translator](https://github.com/omkarshinde25/Indian_Regional_Language_Translation_System) |
 | Python & ML (Internship)                    | - Python, Scikit-Learn<br>- Logistic Regression, Decision Trees<br>- Jupyter  | _Project links coming soon_                                                                |
-| Data Science (Internship)                   | - MySQL<br>- MS Excel<br>- Power BI<br>- Python <br>- Statistics <br>- Machine Learning <br>- Deep Learning <br>- Artificial Intelligence <br>- NLP    | _Practice SQL Work - Internal_                                                             |
+| Data Science (Internship)                   | - MySQL<br>- MS Excel<br>- Power BI<br>- Python <br>- Statistics <br>- Machine Learning <br>- Deep Learning <br>- Artificial Intelligence <br>- NLP    | _Practice Power BI Work - Internal_                                                             |
 
 ---
 
@@ -57,4 +58,4 @@ Dr. J. J. Magdum College of Engineering (2021–2025) | 72.78%
 
 ---
 
-Thanks for visiting. Feel free to explore my projects or [connect with me](https://www.linkedin.com/in/omkar-shinde-64a479245) for collaboration opportunities.
+Thanks for visiting. Feel free to explore my projects or [connect with me](https://www.linkedin.com/in/omkar-shinde-64a479245) for collaboration opportunities.  
