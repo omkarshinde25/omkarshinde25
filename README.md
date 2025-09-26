@@ -12,7 +12,7 @@ shindeomkar2508@gmail.com | [LinkedIn](https://www.linkedin.com/in/omkar-shinde-
 
 | Domain                                      | Skills / Tools                                                                 | Projects                                                                                   |
 |---------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
-| SQL EDA Project                              | - MySQL<br>- Joins <br>- Aggregates & Clauses<br>- Subqueries & Insights<br>- Stored Procedures<br> | [SQL EDA Project](https://github.com/omkarshinde25/SQL-EDA-Project-/tree/main) |
+| SQL EDA Project                              | - MySQL / PL-SQL<br>- Joins <br>- Aggregates & Clauses<br>- Subqueries & Insights<br>- Stored Procedures<br> | [SQL EDA Project](https://github.com/omkarshinde25/SQL-EDA-Project-/tree/main) |
 | Power BI DataModel SchemaHub Project        | - Power BI<br>- Power Pivot<br>- Data Modeling<br>- Schema<br>- Relationships  | [Power BI DataModel SchemaHub Project](https://github.com/omkarshinde25/PowerBI-DataModel-SchemaHub) |
 | Pharma ETL Project                          | - MS Excel<br>- Power BI<br>- ETL Power BI<br>- Power Query Editor             | [Pharma ETL Project](https://github.com/omkarshinde25/pharma-etl-project/tree/main)         |
 | Sales Data Analysis                         | - MS Excel<br>- Pivot Tables, Charts<br>- Year & Month-wise Sales/Expenses/Profit Reports | [Sales Analysis Excel Project](https://github.com/omkarshinde25/Sales-Analysis-Excel-Project) |
