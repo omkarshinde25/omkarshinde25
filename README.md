@@ -19,17 +19,15 @@ shindeomkar2508@gmail.com | [LinkedIn](https://www.linkedin.com/in/omkar-shinde-
 | Sales Data Analysis                         | - MS Excel<br>- Pivot Tables, Charts<br>- Year & Month-wise Sales/Expenses/Profit Reports | [Sales Analysis Excel Project](https://github.com/omkarshinde25/Sales-Analysis-Excel-Project) |
 | Business Data Analysis                      | - MS Excel<br>- IF, XLOOKUP, SUMIF<br>- Charts & Dashboards                   | [Excel Business Analysis Dashboard](https://github.com/omkarshinde25/Business-Analysis-Excel-Project) |
 | Indian Language Translator Web App          | - HTML, CSS, JavaScript, Bootstrap<br>- Responsive Design<br>- UI Development | [Indian Language Translator](https://github.com/omkarshinde25/Indian_Regional_Language_Translation_System) |
-| Python & ML (Internship)                    | - Python, Scikit-Learn<br>- Logistic Regression, Decision Trees<br>- Jupyter  | _Project links coming soon_                                                                |
-| Data Science (Internship)                   | - MySQL<br>- MS Excel<br>- Power BI<br>- Python<br>- Statistics<br>- Machine Learning<br>- Deep Learning<br>- Artificial Intelligence<br>- NLP | _Practice Power BI Work - Internal_ |
 
 ---
 
 ### Tools and Technologies
 
-- Data Analysis: Excel, SQL, Power BI, Statistics  
+- Data Analysis: MS Excel, MySQL, Power BI, Statistics  
 - Programming: Python, Pandas, NumPy, Scikit-learn  
 - Advanced: Machine Learning, Deep Learning, Artificial Intelligence, NLP  
-- Web/Other: HTML, CSS, Bootstrap, Git & GitHub, Jupyter Notebook  
+- Web/Other: HTML, CSS, Bootstrap, Git & GitHub, Jupyter Notebook,Google Colaboratory  
 
 ---
 
