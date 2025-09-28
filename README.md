@@ -37,6 +37,8 @@ shindeomkar2508@gmail.com | [LinkedIn](https://www.linkedin.com/in/omkar-shinde-
 - Explored and applied core ML concepts including data preprocessing, feature selection, model tuning, and validation.  
 - Collaborated with developers and mentors through code reviews, debugging, and workflow improvements using Git and Jupyter.
 
+---
+
 ### Tools and Technologies
 
 - Data Analysis: MS Excel, MySQL, Power BI, Statistics  
