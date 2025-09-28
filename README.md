@@ -25,17 +25,9 @@ shindeomkar2508@gmail.com | [LinkedIn](https://www.linkedin.com/in/omkar-shinde-
 
 **Cravita Technologies Pvt. Ltd, Pune, India**  
 *Data Analyst & Data Science Intern* (June 2025 – Present)  
-- Undergoing hands-on training focused on MS Excel, MySQL, and Power BI.  
-- Worked with MS Excel (XLOOKUP, Pivot Tables, Dashboards) for data analysis and reporting.  
-- Applied SQL (DDL, DML, TCL, PL/SQL) for database management and querying.  
-- Built interactive Power BI dashboards using Power Query, ETL, Power Pivot, Data Modeling, and DAX.  
-
+  
 **I Gap Technologies Pvt. Ltd, Kolhapur, India**  
 *Python & Machine Learning Intern* (June 2024 – Aug 2024)  
-- Engineered Python automation scripts to clean, transform, and analyze datasets, boosting data handling efficiency.  
-- Built and evaluated ML models such as Decision Trees and Logistic Regression.  
-- Explored and applied core ML concepts including data preprocessing, feature selection, model tuning, and validation.  
-- Collaborated with developers and mentors through code reviews, debugging, and workflow improvements using Git and Jupyter.
 
 ---
 
