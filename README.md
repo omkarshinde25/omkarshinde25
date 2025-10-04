@@ -12,7 +12,7 @@ shindeomkar2508@gmail.com | [LinkedIn](https://www.linkedin.com/in/omkar-shinde-
 
 | Domain                                      | Skills / Tools                                                                 | Projects                                                                                   |
 |---------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
-| Telecom EDA SQL Project                     | - SQL (MySQL / PL-SQL)<br>- Jupyter Notebook / Google Colab<br>- Data Cleaning & EDA<br>- Views, Joins, Subqueries<br>- Aggregations & Window Functions | [Telecom EDA SQL Project](https://github.com/omkarshinde25/Telecom-EDA-SQL-Project) |
+| Telecom EDA SQL Project                     | - SQLite<br>- Jupyter Notebook <br>- Python <br>- Views, Joins, Subqueries<br>- Aggregations & Window Functions | [Telecom EDA SQL Project](https://github.com/omkarshinde25/Telecom-EDA-SQL-Project) |
 | Power BI DAX Agriculture Analysis Project   | - Power BI<br>- DAX (Data Analysis Expressions)<br>- Measured DAX<br>- Excel | [Power BI DAX Agriculture Analysis](https://github.com/omkarshinde25/Power-BI-DAX-Agriculture-Analysis) |
 | SQL EDA Project                             | - MySQL / PL-SQL<br>- Joins<br>- Aggregates & Clauses<br>- Subqueries & Insights<br>- Stored Procedures<br> | [SQL EDA Project](https://github.com/omkarshinde25/SQL-EDA-Project-/tree/main) |
 | Power BI DataModel SchemaHub Project        | - Power BI<br>- Power Pivot<br>- Data Modeling<br>- Schema<br>- Relationships  | [Power BI DataModel SchemaHub Project](https://github.com/omkarshinde25/PowerBI-DataModel-SchemaHub) |
