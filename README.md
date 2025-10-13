@@ -27,7 +27,7 @@ shindeomkar2508@gmail.com | [LinkedIn](https://www.linkedin.com/in/omkar-shinde-
 **Cravita Technologies Pvt. Ltd, Pune, India**  
 *Data Analyst & Data Science Intern* (June 2025 – Present)  
   
-**I Gap Technologies Pvt. Ltd, Kolhapur, India**  
+**IGap Technologies Pvt. Ltd, Kolhapur, India**  
 *Python & Machine Learning Intern* (June 2024 – Aug 2024)  
 
 ---
