@@ -22,14 +22,6 @@ shindeomkar2508@gmail.com | [LinkedIn](https://www.linkedin.com/in/omkar-shinde-
 | Indian Language Translator Web App          | - HTML, CSS, JavaScript, Bootstrap<br>- Responsive Design<br>- UI Development | [Indian Language Translator](https://github.com/omkarshinde25/Indian_Regional_Language_Translation_System) |
 
 
-### Internship Experience :
-
-**Cravita Technologies Pvt. Ltd, Pune, India**  
-*Data Analyst & Data Science Intern* (June 2025 – Present)  
-  
-**IGap Technologies Pvt. Ltd, Kolhapur, India**  
-*Python & Machine Learning Intern* (June 2024 – Aug 2024)  
-
 
 ### Tools and Technologies :
 
@@ -44,17 +36,6 @@ shindeomkar2508@gmail.com | [LinkedIn](https://www.linkedin.com/in/omkar-shinde-
 B.Tech – Information Technology  
 Dr. J. J. Magdum College of Engineering (2021–2025) | 72.78%
 
-
-### Certifications :
-
-- Microsoft Power BI  
-- Infosys Python & NLP  
-- Deloitte Data Analyst Simulation  
-- Tata GenAI Powered Data Analytics Job Simulation  
-- Quantium Data Analytics Job Simulation  
-- Commonwealth Bank Introduction to Data Science Job Simulation  
-- C Programming, Web3 & Java Development  
-- Digital Marketing  
 
 
 ### GitHub Stats
