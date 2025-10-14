@@ -6,7 +6,6 @@ shindeomkar2508@gmail.com | [LinkedIn](https://www.linkedin.com/in/omkar-shinde-
 
 ![Profile views](https://komarev.com/ghpvc/?username=omkarshinde25&color=blue)
 
----
 
 ### My Projects and Technical Skills
 
@@ -22,8 +21,8 @@ shindeomkar2508@gmail.com | [LinkedIn](https://www.linkedin.com/in/omkar-shinde-
 | Business Data Analysis                      | - MS Excel<br>- IF, XLOOKUP, SUMIF<br>- Charts & Dashboards                   | [Excel Business Analysis Dashboard](https://github.com/omkarshinde25/Business-Analysis-Excel-Project) |
 | Indian Language Translator Web App          | - HTML, CSS, JavaScript, Bootstrap<br>- Responsive Design<br>- UI Development | [Indian Language Translator](https://github.com/omkarshinde25/Indian_Regional_Language_Translation_System) |
 
----
-### Internship Experience
+
+### Internship Experience :
 
 **Cravita Technologies Pvt. Ltd, Pune, India**  
 *Data Analyst & Data Science Intern* (June 2025 – Present)  
@@ -31,25 +30,22 @@ shindeomkar2508@gmail.com | [LinkedIn](https://www.linkedin.com/in/omkar-shinde-
 **IGap Technologies Pvt. Ltd, Kolhapur, India**  
 *Python & Machine Learning Intern* (June 2024 – Aug 2024)  
 
----
 
-### Tools and Technologies
+### Tools and Technologies :
 
 - Data Analysis: MS Excel, MySQL, Power BI, Statistics  
 - Programming: Python, Pandas, NumPy, Scikit-learn  
 - Advanced: Machine Learning, Deep Learning, Artificial Intelligence, NLP  
 - Web/Other: HTML, CSS, Bootstrap, Git & GitHub, Jupyter Notebook,Google Colaboratory  
 
----
 
-### Education
+### Education :
 
 B.Tech – Information Technology  
 Dr. J. J. Magdum College of Engineering (2021–2025) | 72.78%
 
----
 
-### Certifications
+### Certifications :
 
 - Microsoft Power BI  
 - Infosys Python & NLP  
@@ -60,13 +56,11 @@ Dr. J. J. Magdum College of Engineering (2021–2025) | 72.78%
 - C Programming, Web3 & Java Development  
 - Digital Marketing  
 
----
 
 ### GitHub Stats
 
 ![Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omkarshinde25&show_icons=true&theme=default)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omkarshinde25&layout=compact&theme=default)
 
----
 
 Thanks for visiting. Feel free to explore my projects or [connect with me](https://www.linkedin.com/in/omkar-shinde-64a479245) for collaboration opportunities.
