@@ -11,6 +11,7 @@ shindeomkar2508@gmail.com | [LinkedIn](https://www.linkedin.com/in/omkar-shinde-
 
 | Domain                                      | Skills / Tools                                                                 | Projects                                                                                   |
 |---------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+| Amazon Prime Video Data Analysis Dashboard  | - Power BI<br>- CSV / Excel Data Source<br>- ETL Process<br>- Data Cleaning in Power Query<br>- Interactive Dashboard | [Amazon Prime Video Data Analysis Dashboard](https://github.com/omkarshinde25/Amazon-Prime-Video-Data-Analysis-Dashboard) |
 | Sample Superstore Dashboard | - Power BI<br>- Excel Data Source<br>- ETL Process<br>- Data Cleaning in Power Query<br>- Interactive Dashboard & Charts | [Sample-Superstore-Dashboard](https://github.com/omkarshinde25/Sample-Superstore-Dashboard/tree/main) |
 | Telecom EDA SQL Project                     | - SQLite<br>- Jupyter Notebook <br>- Python <br>- Views, Joins, Subqueries<br>- Aggregations & Window Functions | [Telecom EDA SQL Project](https://github.com/omkarshinde25/Telecom-EDA-SQL-Project) |
 | Power BI DAX Agriculture Analysis Project   | - Power BI<br>- DAX (Data Analysis Expressions)<br>- Measured DAX<br>- Excel Data Source | [Power BI DAX Agriculture Analysis](https://github.com/omkarshinde25/Power-BI-DAX-Agriculture-Analysis) |
@@ -22,20 +23,18 @@ shindeomkar2508@gmail.com | [LinkedIn](https://www.linkedin.com/in/omkar-shinde-
 | Indian Language Translator Web App          | - HTML, CSS, JavaScript, Bootstrap<br>- Responsive Design<br>- UI Development | [Indian Language Translator](https://github.com/omkarshinde25/Indian_Regional_Language_Translation_System) |
 
 
-
 ### Tools and Technologies :
 
 - Data Analysis: MS Excel, MySQL, Power BI, Statistics  
 - Programming: Python, Pandas, NumPy, Scikit-learn  
 - Advanced: Machine Learning, Deep Learning, Artificial Intelligence, NLP  
-- Web/Other: HTML, CSS, Bootstrap, Git & GitHub, Jupyter Notebook,Google Colaboratory  
+- Web/Other: HTML, CSS, Bootstrap, Git & GitHub, Jupyter Notebook, Google Colaboratory  
 
 
 ### Education :
 
 B.Tech – Information Technology  
 Dr. J. J. Magdum College of Engineering (2021–2025) | 72.78%
-
 
 
 ### GitHub Stats
@@ -45,3 +44,4 @@ Dr. J. J. Magdum College of Engineering (2021–2025) | 72.78%
 
 
 Thanks for visiting. Feel free to explore my projects or [connect with me](https://www.linkedin.com/in/omkar-shinde-64a479245) for collaboration opportunities.
+
