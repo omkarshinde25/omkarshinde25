@@ -11,6 +11,7 @@ shindeomkar2508@gmail.com | [LinkedIn](https://www.linkedin.com/in/omkar-shinde-
 
 | Domain                                      | Skills / Tools                                                                 | Projects                                                                                   |
 |---------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+| Uber Trip Analysis | - Power Query Editor<br>- Power BI<br>- DAX<br>- Data Modeling<br>- Dashboards<br>- Excel Data Source<br>- Publish Data | [Uber Trip Analysis](https://github.com/omkarshinde25/Uber-Trip-Analysis/blob/main/README.md) |
 | Amazon Prime Video Data Analysis Dashboard  | - Power BI<br>- CSV / Excel Data Source<br>- ETL Process<br>- Data Cleaning in Power Query<br>- Power Pivot - DAX <br>- Interactive Dashboard | [Amazon Prime Video Data Analysis Dashboard](https://github.com/omkarshinde25/Amazon-Prime-Analysis-Dashboard) |
 | Sample Superstore Dashboard | - Power BI<br>- Excel Data Source<br>- ETL Process<br>- Data Cleaning in Power Query<br>- Interactive Dashboard & Charts | [Sample-Superstore-Dashboard](https://github.com/omkarshinde25/Sample-Superstore-Dashboard/tree/main) |
 | Telecom EDA SQL Project                     | - SQLite<br>- Jupyter Notebook <br>- Python <br>- Views, Joins, Subqueries<br>- Aggregations & Window Functions | [Telecom EDA SQL Project](https://github.com/omkarshinde25/Telecom-EDA-SQL-Project) |
@@ -43,4 +44,3 @@ Dr. J. J. Magdum College of Engineering (2021–2025) | 72.78%
 
 
 Thanks for visiting. Feel free to explore my projects or [connect with me](https://www.linkedin.com/in/omkar-shinde-64a479245) for collaboration opportunities.
-
