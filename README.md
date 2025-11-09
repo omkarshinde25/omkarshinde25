@@ -2,7 +2,7 @@
 
 ### Data Analyst / Data Scientist  
 Pune, India  
-shindeomkar2508@gmail.com | [LinkedIn](https://www.linkedin.com/in/omkar-shinde-64a479245) | [GitHub](https://github.com/omkarshinde25)
+shindeomkar2508@gmail.com | [LinkedIn](https://www.linkedin.com/in/omkar-shinde-64a479245) | [GitHub](https://github.com/omkarshinde25) | [LeetCode](https://leetcode.com/u/omkarshinde25/)
 
 ![Profile views](https://komarev.com/ghpvc/?username=omkarshinde25&color=blue)
 
