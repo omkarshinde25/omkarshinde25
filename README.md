@@ -33,7 +33,7 @@ shindeomkar2508@gmail.com | [LinkedIn](https://www.linkedin.com/in/omkar-shinde-
 
 ### Education :
 
-B.Tech – Information Technology  
+B.Tech – Information Technology
 Dr. J. J. Magdum College of Engineering (2021–2025) | 72.78%
 
 
