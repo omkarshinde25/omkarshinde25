@@ -2,7 +2,7 @@
 
 ### Data Analyst / Data Scientist  
 Pune, India  
-shindeomkar2508@gmail.com | [LinkedIn](https://www.linkedin.com/in/omkar-shinde-64a479245) | [GitHub](https://github.com/omkarshinde25) | [LeetCode](https://leetcode.com/u/omkarshinde25/)
+shindeomkar2508@gmail.com | [LinkedIn](https://www.linkedin.com/in/omkar-shinde-64a479245) | [GitHub](https://github.com/omkarshinde25) | [LeetCode](https://leetcode.com/u/omkarshinde25/) | [Resume](https://github.com/omkarshinde25/Resume-Omkar-Shinde/blob/main/Omkar%20Shinde.pdf)
 
 ![Profile views](https://komarev.com/ghpvc/?username=omkarshinde25&color=blue)
 
@@ -40,7 +40,6 @@ Dr. J. J. Magdum College of Engineering (2021–2025) | 72.78%
 ### GitHub Stats
 
 ![Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omkarshinde25&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omkarshinde25&layout=compact&theme=default)
 
 
 Thanks for visiting. Feel free to explore my projects or [connect with me](https://www.linkedin.com/in/omkar-shinde-64a479245) for collaboration opportunities.
