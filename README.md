@@ -25,9 +25,9 @@ shindeomkar2508@gmail.com | [LinkedIn](https://www.linkedin.com/in/omkar-shinde-
 
 ### Tools and Technologies :
 
-- Data Analysis: MS Excel, MySQL, Power BI, Statistics  
-- Programming: Python, Pandas, NumPy, Scikit-learn  
-- Advanced: Machine Learning, Deep Learning, Artificial Intelligence, NLP  
+- Data Analysis: MS Excel, MySQL, Power BI, Tableau, Statistics  
+- Programming: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, SQL 
+- Advanced: Machine Learning, Deep Learning, Artificial Intelligence 
 - Web/Other: HTML, CSS, Bootstrap, Git & GitHub, Jupyter Notebook, Google Colaboratory  
 
 
