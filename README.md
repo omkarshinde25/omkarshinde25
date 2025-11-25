@@ -22,24 +22,6 @@ shindeomkar2508@gmail.com | [LinkedIn](https://www.linkedin.com/in/omkar-shinde-
 | Business Data Analysis                      | - MS Advanced Excel<br>- IF, XLOOKUP, SUMIF<br>- Charts & Dashboards                   | [Excel Business Analysis Dashboard](https://github.com/omkarshinde25/Business-Analysis-Excel-Project) |
 
 
-### Tools and Technologies :
-
-- Data Analysis: MS Excel, MySQL, Power BI, Tableau, Statistics  
-- Programming: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, SQL 
-- Advanced: Machine Learning, Deep Learning, Artificial Intelligence 
-- Web/Other: HTML, CSS, Bootstrap, Git & GitHub, Jupyter Notebook, Google Colaboratory  
-
-
-### Education :
-
-B.Tech – Information Technology  
-Dr. J. J. Magdum College of Engineering (2021–2025) | 72.78%
-
-
-### GitHub Stats
-
-![Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omkarshinde25&show_icons=true&theme=default)  
-
 ### Most Used Languages (All Repositories)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omkarshinde25&layout=compact&theme=default)
