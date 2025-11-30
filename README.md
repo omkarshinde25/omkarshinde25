@@ -21,9 +21,7 @@ shindeomkar2508@gmail.com | [LinkedIn](https://www.linkedin.com/in/omkar-shinde-
 | Sales Data Analysis                         | - MS Advanced Excel<br>- Pivot Tables, Charts<br>- Year & Month-wise Sales/Expenses/Profit Reports | [Sales Analysis Excel Project](https://github.com/omkarshinde25/Sales-Analysis-Excel-Project) |
 | Business Data Analysis                      | - MS Advanced Excel<br>- IF, XLOOKUP, SUMIF<br>- Charts & Dashboards                   | [Excel Business Analysis Dashboard](https://github.com/omkarshinde25/Business-Analysis-Excel-Project) |
 
-
-### Most Used Languages (All Repositories)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omkarshinde25&layout=compact&theme=default)
+<br>
+<br>
 
 Thanks for visiting. Feel free to explore my projects or [connect with me](https://www.linkedin.com/in/omkar-shinde-64a479245) for collaboration opportunities.
