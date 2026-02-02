@@ -11,15 +11,11 @@ shindeomkar2508@gmail.com | [LinkedIn](https://www.linkedin.com/in/omkar-shinde-
 
 | Domain                                      | Skills / Tools                                                                 | Projects                                                                                   |
 |---------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
-| Uber Trip Analysis | - Power Query Editor<br>- Power BI<br>- DAX<br>- Data Modeling<br>- Dashboards<br>- Excel Data Source<br>- Publish Data | [Uber Trip Analysis](https://github.com/omkarshinde25/Uber-Trip-Analysis/blob/main/README.md) |
-| Telecom EDA SQL Project                     | - SQLite<br>- Jupyter Notebook <br>- Python <br>- Views, Joins, Subqueries<br>- Aggregations & Window Functions | [Telecom EDA SQL Project](https://github.com/omkarshinde25/Telecom-EDA-SQL-Project) |
-| Spotify Music Data Analysis | - Power BI<br>- Power Query Editor<br>- Power Pivot<br>- DAX<br>- Data Modeling<br>- Dashboards<br>- Get Data CSV<br>- Publish Data | [Spotify Music Data Analysis](https://github.com/omkarshinde25/Spotify-Music-Data-Analysis) |
-| SQL EDA Project                             | - MySQL / PL-SQL<br>- Joins<br>- Aggregates & Clauses<br>- Subqueries & Insights<br>- Stored Procedures<br> | [SQL EDA Project](https://github.com/omkarshinde25/SQL-EDA-Project-/tree/main) |
-| Amazon Prime Video Data Analysis Dashboard  | - Power BI<br>- CSV / Excel Data Source<br>- ETL Process<br>- Data Cleaning in Power Query<br>- Power Pivot - DAX <br>- Interactive Dashboard | [Amazon Prime Video Data Analysis Dashboard](https://github.com/omkarshinde25/Amazon-Prime-Analysis-Dashboard) |
-| Sample Superstore Dashboard | - Power BI<br>- Excel Data Source<br>- ETL Process<br>- Data Cleaning in Power Query<br>- Interactive Dashboard & Charts | [Sample-Superstore-Dashboard](https://github.com/omkarshinde25/Sample-Superstore-Dashboard/tree/main) |
-| Pharma ETL Project                          | - Excel Data Source<br>- Power BI<br>- ETL Power BI<br>- Power Query Editor             | [Pharma ETL Project](https://github.com/omkarshinde25/pharma-etl-project/tree/main)         |
-| Sales Data Analysis                         | - MS Advanced Excel<br>- Pivot Tables, Charts<br>- Year & Month-wise Sales/Expenses/Profit Reports | [Sales Analysis Excel Project](https://github.com/omkarshinde25/Sales-Analysis-Excel-Project) |
-| Business Data Analysis                      | - MS Advanced Excel<br>- IF, XLOOKUP, SUMIF<br>- Charts & Dashboards                   | [Excel Business Analysis Dashboard](https://github.com/omkarshinde25/Business-Analysis-Excel-Project) |
+| Uber Trip Analysis | - Power BI<br>- SQL<br>- SQLite<br>- Power Query Editor<br>- Data Modeling<br>- DAX | [Uber Trip Analysis](https://github.com/omkarshinde25/Uber-Trip-Analysis/blob/main/README.md) |
+| Telecom EDA SQL Project                     | - SQL<br>- SQLite<br>- Jupyter Notebook <br>- Python | [Telecom EDA SQL Project](https://github.com/omkarshinde25/Telecom-EDA-SQL-Project) |
+| Spotify Music Data Analysis | - Power BI<br>- Power Query Editor<br>- DAX<br>- Data Modeling | [Spotify Music Data Analysis](https://github.com/omkarshinde25/Spotify-Music-Data-Analysis) |
+| SQL EDA Project                             | - SQL / PL-SQL<br>- MySQL<br>- Joins<br>- Aggregates & Clauses<br>- Subqueries & Insights | [SQL EDA Project](https://github.com/omkarshinde25/SQL-EDA-Project-/tree/main) |
+| Sales Data Analysis                         | - Advanced Excel<br>- Pivot Tables, Charts| [Sales Analysis Excel Project](https://github.com/omkarshinde25/Sales-Analysis-Excel-Project) |
 
 <br>
 <br>
