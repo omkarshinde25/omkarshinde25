@@ -9,13 +9,13 @@ shindeomkar2508@gmail.com | [LinkedIn](https://www.linkedin.com/in/omkar-shinde-
 
 ### My Projects and Technical Skills
 
-| Domain                                      | Skills / Tools                                                                 | Projects                                                                                   |
-|---------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
-| Uber Trip Analysis | - Power BI<br>- SQL<br>- SQLite<br>- Power Query Editor<br>- Data Modeling<br>- DAX | [Uber Trip Analysis](https://github.com/omkarshinde25/Uber-Trip-Analysis/blob/main/README.md) |
-| Telecom EDA SQL Project                     | - SQL<br>- SQLite<br>- Jupyter Notebook <br>- Python | [Telecom EDA SQL Project](https://github.com/omkarshinde25/Telecom-EDA-SQL-Project) |
-| Spotify Music Data Analysis | - Power BI<br>- Power Query Editor<br>- DAX<br>- Data Modeling | [Spotify Music Data Analysis](https://github.com/omkarshinde25/Spotify-Music-Data-Analysis) |
-| SQL EDA Project                             | - SQL / PL-SQL<br>- MySQL<br>- Joins<br>- Aggregates & Clauses<br>- Subqueries & Insights | [SQL EDA Project](https://github.com/omkarshinde25/SQL-EDA-Project-/tree/main) |
-| Sales Data Analysis                         | - Advanced Excel<br>- Pivot Tables, Charts| [Sales Analysis Excel Project](https://github.com/omkarshinde25/Sales-Analysis-Excel-Project) |
+| Domain                                       | Skills / Tools                                                                 | Projects                                                        |
+|----------------------------------------------|------------------------------------------------------------------|-------------------------------------------------------------------------------|
+| Uber Trip Data Analysis      | - Power BI<br>- SQL<br>- SQLite<br>- Power Query Editor  | [Uber Trip Data Analysis](https://github.com/omkarshinde25/Uber-Trip-Analysis/blob/main/README.md) |
+| Exploratory Data Analysis on Telecom | - SQLite<br>- Jupyter Notebook <br>- Python | [Telecom EDA SQL Project](https://github.com/omkarshinde25/Telecom-EDA-SQL-Project) |
+| Spotify Music Data Analysis | - Power BI<br>- Power Query Editor | [Spotify Music Data Analysis](https://github.com/omkarshinde25/Spotify-Music-Data-Analysis) |
+|  Exploratory Data Analysis on Car Database         | - SQL / PL-SQL<br>- MySQL<br>- Joins<br>- Aggregates & Clauses<br>- Subqueries & Insights| [Exploratory Data Analysis on Car Database ](https://github.com/omkarshinde25/SQL-EDA-Project-/tree/main) |
+| Sales Data Analysis     | - Advanced Excel<br>- Pivot Tables, Charts | [Sales Analysis Excel Project](https://github.com/omkarshinde25/Sales-Analysis-Excel-Project) |
 
 <br>
 <br>
