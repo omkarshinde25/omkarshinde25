@@ -11,7 +11,7 @@ shindeomkar2508@gmail.com | [LinkedIn](https://www.linkedin.com/in/omkar-shinde-
 
 | Domain                                       | Skills / Tools                                                                 | Projects                                                        |
 |----------------------------------------------|------------------------------------------------------------------|-------------------------------------------------------------------------------|
-| Movie Recommender System Project      | - Python<br>- Machine Learning<br>- NLP<br>- Streamlit  | [Movie Recommender System Project](https://github.com/omkarshinde25/Movie-Recommender-System-using-Machine-Learning) |
+| Movie Recommender System Project      | - Python<br>- Machine Learning<br>- Natural Language Processing<br>- Pandas, NumPy, scikit-learn, NLTK, Streamlit  | [Movie Recommender System Project](https://github.com/omkarshinde25/Movie-Recommender-System-using-Machine-Learning) |
 | Uber Trip Data Analysis      | - Power BI<br>- SQL<br>- SQLite<br>- Power Query Editor  | [Uber Trip Data Analysis](https://github.com/omkarshinde25/Uber-Trip-Analysis/blob/main/README.md) |
 |  Exploratory Data Analysis on Car Database         | - SQL / PL-SQL<br>- MySQL<br>- Joins<br>- Aggregates & Clauses | [Exploratory Data Analysis on Car Database ](https://github.com/omkarshinde25/SQL-EDA-Project-/tree/main) |
 | Exploratory Data Analysis on Telecom Database | - SQL<br>- SQLite<br>- Jupyter Notebook <br>- Python | [Exploratory Data Analysis on Telecom Database](https://github.com/omkarshinde25/Telecom-EDA-SQL-Project) |
