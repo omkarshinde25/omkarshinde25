@@ -19,12 +19,12 @@ shindeomkar2508@gmail.com | [LinkedIn](https://www.linkedin.com/in/omkar-shinde-
 | Sales Data Analysis     | - Advanced Excel<br>- Pivot Tables<br>- Charts <br>- Power Query Editor | [Sales Analysis Excel Project](https://github.com/omkarshinde25/Sales-Analysis-Excel-Project) |
 
 <br>
-<h3 align="left">
-  <a href="https://github.com/omkarshinde25">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=omkarshinde25&show_icons=true&theme=dark"/>
-  </a>
-</h3>
+<h3 align="left">GitHub Stats</h3>
+<a href="https://github.com/omkarshinde25">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=omkarshinde25&show_icons=true&theme=dark&count_private=false"/>
+</a>
 
-<br>
+<h3 align="left">Top Languages</h3>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=omkarshinde25&layout=compact&theme=dark"/>
 
 Thanks for visiting. Feel free to explore my projects or [connect with me](https://www.linkedin.com/in/omkar-shinde-64a479245) for collaboration opportunities.
