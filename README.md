@@ -18,7 +18,7 @@
 |  Exploratory Data Analysis on Car Database         | - SQL / PL-SQL<br>- MySQL<br>- Joins<br>- Aggregates & Clauses | [Exploratory Data Analysis on Car Database ](https://github.com/omkarshinde25/SQL-EDA-Project-/tree/main) |
 | Uber Trip Data Analysis      | - Power BI<br>- SQL<br>- SQLite<br>- Power Query Editor  | [Uber Trip Data Analysis](https://github.com/omkarshinde25/Uber-Trip-Analysis/blob/main/README.md) |
 | Exploratory Data Analysis on Telecom Database | - SQL<br>- SQLite<br>- Jupyter Notebook <br>- Python | [Exploratory Data Analysis on Telecom Database](https://github.com/omkarshinde25/Telecom-EDA-SQL-Project) |
-| Spotify Music Data Analysis | - Power BI<br>- Power Query Editor<br>- Power BI Services | [Spotify Music Data Analysis](https://github.com/omkarshinde25/Spotify-Music-Data-Analysis) |
+| Spotify Music Data Analysis | - Power BI<br>- Power Query Editor<br>- Power BI Services<br>- Data Visualization | [Spotify Music Data Analysis](https://github.com/omkarshinde25/Spotify-Music-Data-Analysis) |
 | Sales Data Analysis     | - Advanced Excel<br>- Pivot Tables<br>- Charts <br>- Power Query Editor | [Sales Analysis Excel Project](https://github.com/omkarshinde25/Sales-Analysis-Excel-Project) |
 
 ***
