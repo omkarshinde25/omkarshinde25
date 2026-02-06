@@ -20,8 +20,11 @@ shindeomkar2508@gmail.com | [LinkedIn](https://www.linkedin.com/in/omkar-shinde-
 
 <br>
 <h3 align="left">
-<a href="https://github.com/Shreyaschavan10">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=omkarshinde25&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/omkarshinde25">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=omkarshinde25&show_icons=true&theme=dark"/>
+  </a>
+</h3>
+
 <br>
 
 Thanks for visiting. Feel free to explore my projects or [connect with me](https://www.linkedin.com/in/omkar-shinde-64a479245) for collaboration opportunities.
