@@ -21,7 +21,7 @@
 | Spotify Music Data Analysis | - Power BI<br>- Power Query Editor<br>- Power BI Services | [Spotify Music Data Analysis](https://github.com/omkarshinde25/Spotify-Music-Data-Analysis) |
 | Sales Data Analysis     | - Advanced Excel<br>- Pivot Tables<br>- Charts <br>- Power Query Editor | [Sales Analysis Excel Project](https://github.com/omkarshinde25/Sales-Analysis-Excel-Project) |
 
-<br>
+***
 <h3 align="left">GitHub Stats</h3>
 <a href="https://github.com/omkarshinde25">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=omkarshinde25&show_icons=true&theme=dark&count_private=false"/>
