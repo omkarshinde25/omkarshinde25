@@ -6,7 +6,9 @@
   <img src="https://komarev.com/ghpvc/?username=omkarshinde25&color=blue" alt="Profile views"/>
 </p>
 
-<br>
+
+***
+
 <h3 align="center">My Projects and Technical Skills</h3>
 
 
