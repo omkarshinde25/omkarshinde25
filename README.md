@@ -1,13 +1,14 @@
-# Hello Mate 🤝, I'm Omkar 😄
+<h1 align="center">Hello Mate 🤝, I'm Omkar 😄</h1>
+<h3 align="center">
+  Turning Data into Insights, Because Data Is the New Oil
+</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=omkarshinde25&color=blue" alt="Profile views"/>
+</p>
 
-### Data Analyst / Data Scientist  
-Pune, India  
-shindeomkar2508@gmail.com | [LinkedIn](https://www.linkedin.com/in/omkar-shinde-64a479245) | [Portfolio](https://omkarshinde25.github.io/) | [LeetCode](https://leetcode.com/u/omkarshinde25/) | [Resume](https://github.com/omkarshinde25/Resume-Omkar-Shinde/blob/main/Omkar%20Shinde.pdf)
+<br>
+<h3 align="center">My Projects and Technical Skills</h3>
 
-![Profile views](https://komarev.com/ghpvc/?username=omkarshinde25&color=blue)
-
-
-### My Projects and Technical Skills
 
 | Domain                                       | Skills / Tools                                                                 | Projects                                                        |
 |----------------------------------------------|------------------------------------------------------------------|-------------------------------------------------------------------------------|
