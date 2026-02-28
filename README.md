@@ -1,6 +1,6 @@
 <h1 align="center">Hello Mate 🤝, I'm Omkar 😄</h1>
 <h3 align="center">
-  Turning Data into Insights, Because Data Is the New Oil
+  Turning Data into Insights, Because Data is the New Oil!
 </h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=omkarshinde25&color=blue" alt="Profile views"/>
